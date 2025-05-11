@@ -18,6 +18,7 @@ final class ConversationType extends \MyCLabs\Enum\Enum
     private const AUTHENTICATION = 'authentication';
 
     private const MARKETING = 'marketing';
+    private const MARKETING_LITE = 'marketing_lite';
 
     private const UTILITY = 'utility';
 
